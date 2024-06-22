@@ -1,23 +1,25 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Efstathios Lymperis's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Efstathios Lymperis
+Geologist, Geospatial Developer, Cartographer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="geo.elymperis@gmail.com">geo.elymperis@gmail.com</a>
+| <a href="https//elymperis.com">Website</a>
+| <a href="https://www.linkedin.com/in/efstathios-lymperis/">LinkedIn</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a Geospatial Software Developer at Geospatial Enabling Technologies Ltd, designing and implementing research and commercial projects for the public sector, energy, environmnent and urban management.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Full-stack geospatial systems and applications, engineering geology
 
 
 ### Research interests
