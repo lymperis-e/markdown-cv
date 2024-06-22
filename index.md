@@ -24,7 +24,7 @@ Full-stack geospatial systems and applications, engineering geology
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Engineering geology, computational geodynamics, geospatial systems, cloud-native geospatial
 
 
 ## Education
@@ -37,10 +37,29 @@ __Trinity College, Cambridge__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
 
-- Fellow
+`2015-2020`
+__Aristotle University of Thessaloniki, Faculty of Sciences, School of Geology__
+_BSc. Geology, orientation: Applied Geology_
+_GPA: 8.64 / 10.0_
+
+Involved, as a senior student, in the research group of the Engineering Geology laboratory for 2  years, working on remote sensing & geoinformatics techniques for geological engineering  applications, resulting in 2 publications. Research and technical skills required and developed at the  time include:  
+- Computer programming  
+- Field data collection using standard geological techniques as well as UAV acquisitions.  - Data preparation, evaluation, processing and interpreptation.  
+- UAV data acquisition & Point Cloud manipulation for geotechnical objectives  - Scientific writing & publication
+
+Thesis (10.0 / 10.0 ): _Study of Rockfall & Engineering Geological Assessment of the Site in Plomari, Lesvos,  aided by U.A.V. and Computational Methods_ 
+
+
+`2013-2015`
+__Pefka General High School__
+Activities and societies:
+- 
+
+
+`2013 – 2015`
+Delasalle College 
+
 
 
 
