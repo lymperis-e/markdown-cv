@@ -77,6 +77,16 @@ __Geographic Information Systems Engineer__, Geomeletitiki Consulting Engineers
 
 
 
+## Activities & Societies: 
+-Proteas, Speleological Society of Thessaloniki, cave explorer & trainer 
+1. Certified in theoretical and practical aspects of speleology 
+2. Single Rope access techniques 
+3. Cave exploration, archiving, documentation, mapping and preservation 
+4. Science communication 
+-Visitor Assistant, TIF Helexpo 
+-Pefka Municipal Marching Band  
+-Delasalle College Orchestra
+
 
 
 <!-- ### Footer
