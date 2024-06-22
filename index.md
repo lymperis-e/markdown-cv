@@ -9,6 +9,7 @@ Geologist, Geospatial Developer, Cartographer
 <a href="geo.elymperis@gmail.com">e-mail</a>
 | <a href="https//elymperis.com">Website</a>
 | <a href="https://www.linkedin.com/in/efstathios-lymperis/">LinkedIn</a>
+| <a href="(+30) 6949102994 ">Mobile</a>
 
 </div>
 
@@ -63,9 +64,22 @@ __Delasalle College__
 `2019` _Slope - scale rockfall modelling from accurate 3D morphology, an example from Plomari, Lesvos  Island, East Aegean Sea_, 12th Asian Regional conference of IAEG, Jeju isl., South Korea 
 
 
-## Occupation
-List of notable [projects](https://www.elymperis.com/projects)
+## Projects
+A more extensive list of notable can be found [here](https://www.elymperis.com/projects).
 
+__OpenGreekGeodata__ 
+- Centralized repository of open geospatial data for Greece. The catalog is published via a cartographic, fully-3D enabled web-portal, powered by TerriaJS. 
+- [link](https://data.elymperis.gr)
+
+__Greek Data [QGIS Plugin]__
+- A plugin that provides easy access to a list of open geodata sources for Greece, directly from QGIS.
+- [Plugin repo](https://plugins.qgis.org/plugins/grdata/)
+
+__Remote DB [QGIS Plugin]__
+- A plugin that allows for remote database connections from QGIS, essentially managing SSH connections to remote database servers
+- [Plugin repo](https://plugins.qgis.org/plugins/remote_db/)
+
+## Occupation
 
 `Sep 2022 - Present`
 __Fullstack Software Engineer [Geospatial]__, Geospatial Enabling Technologies
