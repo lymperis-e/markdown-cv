@@ -40,8 +40,8 @@ __Trinity College, Cambridge__
 
 `2015-2020`
 __Aristotle University of Thessaloniki, Faculty of Sciences, School of Geology__
-_BSc. Geology, orientation: Applied Geology_
-_GPA: 8.64 / 10.0_
+BSc. Geology, orientation: Applied Geology
+GPA: 8.64 / 10.0
 
 Involved, as a senior student, in the research group of the Engineering Geology laboratory for 2  years, working on remote sensing & geoinformatics techniques for geological engineering  applications, resulting in 2 publications. Research and technical skills required and developed at the  time include:  
 - Computer programming  
