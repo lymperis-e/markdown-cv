@@ -6,7 +6,7 @@ title: Efstathios Lymperis's CV
 Geologist, Geospatial Developer, Cartographer
 
 <div id="webaddress">
-<a href="geo.elymperis@gmail.com">geo.elymperis@gmail.com</a>
+<a href="geo.elymperis@gmail.com">e-mail</a>
 | <a href="https//elymperis.com">Website</a>
 | <a href="https://www.linkedin.com/in/efstathios-lymperis/">LinkedIn</a>
 
@@ -55,7 +55,12 @@ __Delasalle College__
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2019` _UAV Point Clouds for Semi-Automated Rockfall Hazard Assessment: a Post-Failure Application of  a Novel Method in Plomari, Lesvos Island_, Geological Society of Greece Int. Conference 2019, Athens, Gr (Session)
+
+
+`2019` _A Novel Semi-Automated Approach for Rockfall Hazard Assessment from 3D Point Clouds: A  Post-Failure Case on the Island of Lesvos, Greece._, 53rd U.S. Rock Mechanics/Geomechanics Symposium, NYC, US 
+
+`2019` _Slope - scale rockfall modelling from accurate 3D morphology, an example from Plomari, Lesvos  Island, East Aegean Sea_, 12th Asian Regional conference of IAEG, Jeju isl., South Korea 
 
 
 ## Occupation
