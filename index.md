@@ -6,9 +6,9 @@ title: Efstathios Lymperis's CV
 Geologist, Geospatial Developer, Cartographer
 
 <div id="webaddress">
-<a href="geo.elymperis@gmail.com">e-mail</a>
-| <a href="https//elymperis.com">Website</a>
+<a href="https//elymperis.com">Website</a>
 | <a href="https://www.linkedin.com/in/efstathios-lymperis/">LinkedIn</a>
+| <a href="geo.elymperis@gmail.com">e-mail</a>
 | <a href="(+30) 6949102994 ">Mobile</a>
 
 </div>
@@ -35,20 +35,20 @@ __Aristotle University of Thessaloniki, Faculty of Sciences, School of Geology__
 
 - BSc. Geology, orientation: Applied Geology (8.64 / 10.0)
 
-Involved, as a senior student, in the research group of the Engineering Geology laboratory for 2  years, working on remote sensing & geoinformatics techniques for geological engineering  applications, resulting in 2 publications. Research and technical skills required and developed at the  time include:  
+Involved, as a senior student, in the research group of the Engineering Geology laboratory for 2  years, working on remote sensing & geoinformatics applications to engineering geology. This work culminated in 3 publications, including an oral presentation at the Geological Society of Greece's international conference. Research and technical skills required and developed at the  time include:  
 
 - Computer programming  
 - Field data collection using standard geological techniques as well as UAV acquisitions.  - Data preparation, evaluation, processing and interpreptation.  
 - UAV data acquisition & Point Cloud manipulation for geotechnical objectives 
 - Scientific writing & publication
 
-Thesis (10.0 / 10.0 ): _Study of Rockfall & Engineering Geological Assessment of the Site in Plomari, Lesvos,  aided by U.A.V. and Computational Methods_ 
+Thesis (10.0 / 10.0 ): Study of Rockfall & Engineering Geological Assessment of the Site in Plomari, Lesvos,  aided by U.A.V. and Computational Methods. [Full PDF](https://www.elymperis.com/lymperis_bsc_thesis.pdf)
 
 
 `2013-2015`
 __Pefka General High School__
 
-`2013 – 2015`
+`2003 – 2013`
 __Delasalle College__
 
 
