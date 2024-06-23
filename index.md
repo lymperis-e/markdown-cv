@@ -6,10 +6,10 @@ title: Efstathios Lymperis's CV
 Geologist, Geospatial Developer, Cartographer
 
 <div id="webaddress">
-<a href="https//elymperis.com">Website</a>
+<a href="https://elymperis.com">Website</a>
 | <a href="https://www.linkedin.com/in/efstathios-lymperis/">LinkedIn</a>
-| <a href="geo.elymperis@gmail.com">e-mail</a>
-| <a href="(+30) 6949102994 ">Mobile</a>
+| <a href="mailto:geo.elymperis@gmail.com">e-mail</a>
+| <a href="tel:+306949102994 ">Mobile</a>
 
 </div>
 
