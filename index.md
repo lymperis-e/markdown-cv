@@ -67,11 +67,11 @@ __Delasalle College__
 
 `Sep 2022 - Present`
 __Fullstack Software Engineer [Geospatial]__, Geospatial Enabling Technologies
--Design, implementation & deployment of complex, full-stack geospatial applications for the public sector, with use cases spaning energy, climate change, EVs, waste management, environment and more.
+- Design, implementation & deployment of complex, full-stack geospatial applications for the public sector, with use cases spaning energy, climate change, EVs, waste management, environment and more.
 
 `Jan 2021 - Sep 2022`
 __Geographic Information Systems Engineer__, Geomeletitiki Consulting Engineers
--Planning & execution of geodata analysis including MCA, hydrological analyses, tology, spatial statistics. Map layout templating and digital cartography. Development of in-house and FOSS tools for analysis and workflow streamlining (Point Cloud web portal, watershed analysis toolkit for QGIS, mass ingestion-processing scripts etc)
+- Planning & execution of geodata analysis including MCA, hydrological analyses, tology, spatial statistics. Map layout templating and digital cartography. Development of in-house and FOSS tools for analysis and workflow streamlining (Point Cloud web portal, watershed analysis toolkit for QGIS, mass ingestion-processing scripts etc)
 
 
 ## Open Source Projects
@@ -92,14 +92,14 @@ __Remote DB [QGIS Plugin]__
 
 
 ## Activities & Societies: 
--Proteas, Speleological Society of Thessaloniki, cave explorer & trainer 
-    - Certified in theoretical and practical aspects of speleology 
+_Proteas, Speleological Society of Thessaloniki_, Cave explorer & trainer 
+- Certified in theoretical and practical aspects of speleology 
     - Single Rope access techniques 
     - Cave exploration, archiving, documentation, mapping and preservation 
     - Science communication 
--Visitor Assistant, TIF Helexpo 
--Pefka Municipal Marching Band  
--Delasalle College Orchestra
+_TIF Helexpo_, Visitor Assistant 
+_Municipality of Pefka Marching Band_, Persucussionist 
+_Delasalle College_, Student Council Member, School Band Member
 
 
 
