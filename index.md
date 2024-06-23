@@ -98,7 +98,8 @@ _Proteas, Speleological Society of Thessaloniki_, Cave explorer & trainer
     - Single Rope access techniques 
     - Cave exploration, archiving, documentation, mapping and preservation 
     - Science communication 
-    - 
+
+
 _TIF Helexpo_, Visitor Assistant 
 
 _Municipality of Pefka Marching Band_, Persucussionist 
