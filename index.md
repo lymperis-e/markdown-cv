@@ -92,13 +92,17 @@ __Remote DB [QGIS Plugin]__
 
 
 ## Activities & Societies: 
+
 _Proteas, Speleological Society of Thessaloniki_, Cave explorer & trainer 
 - Certified in theoretical and practical aspects of speleology 
     - Single Rope access techniques 
     - Cave exploration, archiving, documentation, mapping and preservation 
     - Science communication 
+    - 
 _TIF Helexpo_, Visitor Assistant 
+
 _Municipality of Pefka Marching Band_, Persucussionist 
+
 _Delasalle College_, Student Council Member, School Band Member
 
 
