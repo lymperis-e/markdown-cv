@@ -63,22 +63,6 @@ __Delasalle College__
 
 `2019` _Slope - scale rockfall modelling from accurate 3D morphology, an example from Plomari, Lesvos  Island, East Aegean Sea_, 12th Asian Regional conference of IAEG, Jeju isl., South Korea 
 
-
-## Open Source Projects
-A more extensive list of notable projects, including professional work, can be found [here](https://www.elymperis.com/projects).
-
-__OpenGreekGeodata__ 
-- Centralized repository of open geospatial data for Greece. The catalog is published via a cartographic, fully-3D enabled web-portal, powered by TerriaJS. 
-- [Link](https://data.elymperis.gr)
-
-__Greek Data [QGIS Plugin]__
-- A plugin that provides easy access to a list of open geodata sources for Greece, directly from QGIS.
-- [Plugin repo](https://plugins.qgis.org/plugins/grdata/)
-
-__Remote DB [QGIS Plugin]__
-- A plugin that allows for remote database connections from QGIS, essentially managing SSH connections to remote database servers.
-- [Plugin repo](https://plugins.qgis.org/plugins/remote_db/)
-
 ## Occupation
 
 `Sep 2022 - Present`
@@ -90,13 +74,29 @@ __Geographic Information Systems Engineer__, Geomeletitiki Consulting Engineers
 -Planning & execution of geodata analysis including MCA, hydrological analyses, tology, spatial statistics. Map layout templating and digital cartography. Development of in-house and FOSS tools for analysis and workflow streamlining (Point Cloud web portal, watershed analysis toolkit for QGIS, mass ingestion-processing scripts etc)
 
 
+## Open Source Projects
+A more extensive list of notable projects, including professional work, can be found [here](https://www.elymperis.com/projects).
+
+__OpenGreekGeodata__ 
+- Centralized repository of open geospatial data for Greece. The catalog is published via a cartographic, fully-3D enabled web-portal, powered by TerriaJS. 
+- [Link](https://data.elymperis.com)
+
+__Greek Data [QGIS Plugin]__
+- A plugin that provides easy access to a list of open geodata sources for Greece, directly from QGIS.
+- [Plugin repo](https://plugins.qgis.org/plugins/grdata/)
+
+__Remote DB [QGIS Plugin]__
+- A plugin that allows for remote database connections from QGIS, essentially managing SSH connections to remote database servers.
+- [Plugin repo](https://plugins.qgis.org/plugins/remote_db/)
+
+
 
 ## Activities & Societies: 
 -Proteas, Speleological Society of Thessaloniki, cave explorer & trainer 
-1. Certified in theoretical and practical aspects of speleology 
-2. Single Rope access techniques 
-3. Cave exploration, archiving, documentation, mapping and preservation 
-4. Science communication 
+    - Certified in theoretical and practical aspects of speleology 
+    - Single Rope access techniques 
+    - Cave exploration, archiving, documentation, mapping and preservation 
+    - Science communication 
 -Visitor Assistant, TIF Helexpo 
 -Pefka Municipal Marching Band  
 -Delasalle College Orchestra
